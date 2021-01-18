@@ -1,0 +1,5 @@
+Armando la estructura basica del proyecto: 
+
+npm init --yes: package.json de manera rapida. 
+npm install express: Framework para crear servidores
+npm install ejs : Motor de plantilla HTML la pone potente   
